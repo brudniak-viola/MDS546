@@ -1,1 +1,1 @@
-# MDS546
+# MDS546 course projects
